@@ -6,3 +6,5 @@ openai
 streamlit
 requests_html
 python-dotenv
+lxml_html_clean
+validators
